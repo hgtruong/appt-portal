@@ -2,11 +2,9 @@
 
 #### This application allows patients to create, update, and delete appointments.
 
-**This repo is created to deploy on netlify. Original repo can be found [here](https://github.com/hgtruong/TeleonHealth-Appointment).**
+**Deployed link: [click here](https://pensive-wozniak-e45ab7.netlify.app/)**
 
-Deployed link: [click here](https://pensive-wozniak-e45ab7.netlify.app/)
-
-To build and run locally: 
+### To build and run locally: 
 
 #### For MacOS: 
 
@@ -29,3 +27,5 @@ If you have Git and NodeJS installed, skip to step 3.
 5. On PowerShell/Command Prompt, navigate into cloned project
 6. Use "npm install" to install all dependencies
 7. Use "npm start" to run the project
+
+Note: this repo is created to deploy on netlify. Original repo can be found [here](https://github.com/hgtruong/TeleonHealth-Appointment).
