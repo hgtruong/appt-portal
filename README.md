@@ -1,8 +1,10 @@
-# TeleonHealth-Appointment
-
-Video demo: https://youtu.be/UyUNXNZu7U8
+# Appointment Portal
 
 #### This application allows patients to create, update, and delete appointments.
+
+**This repo is created to deploy on netlify. Original repo can be found [here](https://github.com/hgtruong/TeleonHealth-Appointment).**
+
+Deployed link: [click here](https://pensive-wozniak-e45ab7.netlify.app/)
 
 To build and run locally: 
 
