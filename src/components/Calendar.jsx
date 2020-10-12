@@ -6,7 +6,7 @@ import { Message } from "semantic-ui-react";
 const localizer = momentLocalizer(moment);
 
 const style = {
-  margin: '5%'
+  margin: '1% 5%'
 }
 
 const RBCalendar = function(props) {
@@ -23,6 +23,7 @@ const RBCalendar = function(props) {
 
   return (
     <div>
+
       <div className="calendar-container" style={style}>
         <Calendar
           localizer={localizer}
@@ -39,7 +40,7 @@ const RBCalendar = function(props) {
         <Message info>
           <p>* Double click on open date slot to schedule an appointment</p>
           <p>* Double click on existing appointment to view or cancel </p>
-        </Message>
+        </Message> 
       </div>
     </div>
   )
