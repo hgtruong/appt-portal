@@ -75,8 +75,8 @@ class AppointmentModal extends React.Component {
         id: this.idGenerator(),
         firstName: "Michael",
         lastName: "Scott",
-        start: new Date('October 3 2020'),
-        end: new Date('October 3 2020'),
+        start: new Date('October 15 2020'),
+        end: new Date('October 15 2020'),
         title: `Dr. Crane (Psychiatrist)`,
         allDay: true,
         doctor: {

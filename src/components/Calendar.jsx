@@ -6,7 +6,7 @@ import { Message } from "semantic-ui-react";
 const localizer = momentLocalizer(moment);
 
 const style = {
-  margin: '2% 5%'
+  margin: '1% 5%'
 }
 
 const RBCalendar = function(props) {
