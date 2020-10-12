@@ -1,9 +1,10 @@
 # [CLICK HERE FOR DEPLOYED APP](https://pensive-wozniak-e45ab7.netlify.app/)
+Note: this repo is created to deploy on netlify. Original repo can be found [here](https://github.com/hgtruong/TeleonHealth-Appointment).
 
 # Appointment Portal
 
 #### This application allows patients to create, update, and delete appointments.
-Note: this repo is created to deploy on netlify. Original repo can be found [here](https://github.com/hgtruong/TeleonHealth-Appointment).
+
 
 ### To build and run locally: 
 
