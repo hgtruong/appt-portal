@@ -6,12 +6,12 @@ import { Message } from "semantic-ui-react";
 const localizer = momentLocalizer(moment);
 
 const style = {
-  margin: '1% 5%'
+  margin: '2% 5%'
 }
 
 const RBCalendar = function(props) {
 
-  const eventStyleGetter = function (event, start,end, isSelected){
+  const eventStyleGetter = function (event, start, end, isSelected){
     var style = {
         backgroundColor: event.doctor.calendarColor,
         color: event.doctor.calendarColor === "YELLOW" ? 'red' : 'white',
@@ -38,8 +38,8 @@ const RBCalendar = function(props) {
       </div>
       <div className="info-guide">
         <Message info>
-          <p>* Double click on open date slot to schedule an appointment</p>
-          <p>* Double click on existing appointment to view or cancel </p>
+          <p>* Double click on a date to schedule an appointment</p>
+          <p>* Double click on existing appointment to view, edit, or cancel </p>
         </Message> 
       </div>
     </div>
