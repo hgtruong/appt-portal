@@ -2,7 +2,7 @@
 
 #### This application allows patients to create, update, and delete appointments.
 
-**Deployed link: [click here](https://pensive-wozniak-e45ab7.netlify.app/)**
+**[CLICK HERE FOR DEPLOYED APP](https://pensive-wozniak-e45ab7.netlify.app/)**
 
 Note: this repo is created to deploy on netlify. Original repo can be found [here](https://github.com/hgtruong/TeleonHealth-Appointment).
 
